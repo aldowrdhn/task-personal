@@ -1,0 +1,34 @@
+.head {
+    background-color: #ffd600;
+}
+
+
+.head p {
+    fontfont-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.head h4 {
+    font-size: 60px;
+    letter-spacing: 1px;
+    line-height: 55px;
+    font-family: Passion One, Helvetica, sans-serif !important;
+    color: black;
+}
+
+.container button {
+    background-color: #ffd600;
+    color: rgb(45, 45, 45);
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px
+}
+
+.tes {
+    background-color: #ffd600;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 1px 1px 20px #000000a1;
+}
