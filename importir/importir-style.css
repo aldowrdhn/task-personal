@@ -32,3 +32,23 @@
     overflow: hidden;
     box-shadow: 1px 1px 20px #000000a1;
 }
+
+.bag-2 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1em;
+}
+
+.bag-3 {
+    font-size: 32px;
+    line-height: 1.3em;
+    font-family: inherit;
+    align-items: center;
+}
+
+
+.bag-4 {
+    box-sizing: border-box;
+    border: 2px solid #00000026;
+    width: auto;
+}
