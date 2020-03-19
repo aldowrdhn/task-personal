@@ -1,0 +1,46 @@
+header {
+    background-color: #3c5b9a;
+    color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+    font-size: 12px;
+}
+
+.container {
+    padding-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 250px;
+}
+
+h1 {
+    padding-left: 270px;
+    font-family: 'Spartan', sans-serif;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#submit {
+    border-color: #3c5b9a;
+    background-color: #4c77cb;
+    color: #ffffff;
+}
+
+.form-1 {
+    margin-top: 40px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+
+.form {
+    display: flex;
+}
+
+.form-3 {
+    width: 100px;
+}
